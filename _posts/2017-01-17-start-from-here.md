@@ -10,6 +10,7 @@ categories: jekyll update
 博客的时代已经过去了，现在回头来写博客好像有点逆流而上的感觉...
 
 但是
+
 >You should always be yourself.
 
 判断一件事情要不要做，首先应该由你的个人意愿来决定，其次是这件事情值不值得做。
@@ -32,7 +33,9 @@ categories: jekyll update
 	- 记录技术可以让你有更多的积累
 
 But most of times.
+
 When you look back, you can just find out that:
+
 >How stupid you are !
 
 But who cares?
