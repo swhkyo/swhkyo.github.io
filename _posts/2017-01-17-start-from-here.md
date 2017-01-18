@@ -11,7 +11,7 @@ categories: jekyll update
 
 但是
 
->You should always be yourself.
+>You should always be yourself and do what you want...
 
 判断一件事情要不要做，首先应该由你的个人意愿来决定，其次是这件事情值不值得做。
 
@@ -23,7 +23,7 @@ categories: jekyll update
 
 所以有些事情，还是要趁着自己还记得的时候写下来...
 
->Because it will be interesting when you look back what you write.
+>Because it will be interesting when you look back what you write...
 
 # What will be written? #
 
@@ -36,7 +36,7 @@ But most of times.
 
 When you look back, you can just find out that:
 
->How stupid you are !
+>How stupid you are...
 
 But who cares?
 
