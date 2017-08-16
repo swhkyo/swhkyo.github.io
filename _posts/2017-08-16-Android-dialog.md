@@ -98,11 +98,15 @@ mLoadingDialog = mLoadingDialog.show(context, title, message);
 
 ```
 
-但是这样写呢，从源码上看会每次都__new__一个ProgressDialog，你知道__new__操作总是要谨慎使用的...
+但是这样写呢，从源码上看会每次都new一个ProgressDialog，你知道new操作总是要谨慎使用的...
 
 # 正确的使用 #
 
-所以正确的封装方法应该像下面这样：
+所以正确的封装方法应该
+
+>调用成员函数show()而不是static函数show(context, title, message).
+
+像下面这样：
 
 ```Java
 
